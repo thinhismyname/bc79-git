@@ -1,0 +1,4 @@
+đẩy code từ local lên remote
+
++repository local : source code trong máy tính
++repository remote : source lưu trên github
