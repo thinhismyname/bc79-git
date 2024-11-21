@@ -23,5 +23,10 @@ git push -u
 --xem cac nhanh đang co trong máy
 git branch
 
---
+--tao nhanh
+git checkout 0 -b [tên nhánh]
+
+--chuyển nhánh
+git checkout [tên nhánh]
+
 
