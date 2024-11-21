@@ -26,6 +26,9 @@ git branch
 --tao nhanh
 git checkout 0 -b [tên nhánh]
 
+--gom code từ 2 login về master (đứng tại nhánh master)
+git merge login
+
 --chuyển nhánh
 git checkout [tên nhánh]
 
