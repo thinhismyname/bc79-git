@@ -20,3 +20,8 @@ git add -A
 git commit -m "ly do"
 git push -u
 
+--xem cac nhanh đang co trong máy
+git branch
+
+--
+
