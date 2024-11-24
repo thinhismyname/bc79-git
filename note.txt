@@ -32,4 +32,7 @@ git merge login
 --chuyển nhánh
 git checkout [tên nhánh]
 
+-- xung đột code (conflict) : xảy ra khi merge va pull
+
+
 
